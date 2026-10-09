@@ -1,0 +1,301 @@
+{
+ "_source": "Google reviews for Meat & Social, collected 30 Sep 2026. Verbatim excerpts, 4-5 stars only. Optional auto-update via profile.google.featurableId (see README).",
+ "topics": [
+  "Steak",
+  "Service",
+  "Social Board",
+  "Burger",
+  "Occasions",
+  "Butchery"
+ ],
+ "items": [
+  {
+   "name": "Mark M.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Service"
+   ],
+   "quote": "on a grey cold day in Wembley this restaurant offers an appealing blast of warmth.",
+   "text": "A clean, crisp menu that does not overload the customer. They know what they sell…and they are proud of it. There's a lovely wine menu…well priced, and a selective cocktails menu."
+  },
+  {
+   "name": "Darryl R.",
+   "stars": 5,
+   "when": "4 months ago",
+   "guide": true,
+   "topics": [
+    "Steak"
+   ],
+   "quote": "One of the best steaks I’ve ever had.",
+   "text": "Juicy, tender and visually appealing too. Had a side of fries which was the right amount of crispy. The peppercorn sauce was perfectly suited for the sirloin steak. Would DEFINITELY recommend for a good meat place."
+  },
+  {
+   "name": "Kerry B.",
+   "stars": 5,
+   "when": "8 months ago",
+   "topics": [
+    "Steak",
+    "Social Board"
+   ],
+   "quote": "One of the best steaks I have ever had in my life.",
+   "text": "We’ve lived in Wembley for 6 years and I can confidently say, that 1) this is something we’ve all been waiting for and 2) this was one of the best steaks I have ever had in my life (speaking as a South African growing up with meat on flames)."
+  },
+  {
+   "name": "Ramin R.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Burger",
+    "Steak"
+   ],
+   "quote": "Honestly, the food here is top tier.",
+   "text": "Elite burger — cooked perfectly, packed with flavour, and clearly made with serious care. The dry-aged steaks are excellent too; proper quality, no shortcuts. We sat at the bar and that’s where the experience really came alive."
+  },
+  {
+   "name": "Richard L.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Service"
+   ],
+   "quote": "If you like meat, this place is heaven!!",
+   "text": "Meat & Social is simply superb. The restaurant was full and people were waiting at the bar to get a table... On a Monday night!!! There's a reason why it's popular. It's because it's amazing."
+  },
+  {
+   "name": "Rochelle",
+   "stars": 5,
+   "when": "5 months ago",
+   "topics": [
+    "Steak",
+    "Service"
+   ],
+   "quote": "10/10 experience at Meat & Social.",
+   "text": "The tomahawk steak was incredible - perfectly cooked, tender, and full of flavour. Starters were great too. Big shoutout to our server Porcha, who showed us the different cuts and was so accommodating throughout."
+  },
+  {
+   "name": "Aaron D.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Butchery"
+   ],
+   "quote": "Happy to have a meaty place in the area I live, one which I can keep returning to.",
+   "text": "The meats are all British sourced and can be purchased in store as well just like at the butcher’s. One gets to choose the cuts and weight so you can have a bigger steak while your better half can have a smaller cut."
+  },
+  {
+   "name": "SimKaur",
+   "stars": 5,
+   "when": "6 months ago",
+   "guide": true,
+   "topics": [
+    "Service",
+    "Butchery"
+   ],
+   "quote": "1000000% we'll be back again!",
+   "text": "Its a butchers and restaurant in one, and honestly its amazing. The staff are incredible, super friendly but not intrusive and just genuine."
+  },
+  {
+   "name": "Mehmet & Miray",
+   "stars": 5,
+   "when": "a month ago",
+   "guide": true,
+   "topics": [
+    "Steak",
+    "Burger",
+    "Service"
+   ],
+   "quote": "The steak was cooked perfectly and full of flavour.",
+   "text": "We tried both the steak and the burger, and they were absolutely delicious. The service made our experience even better."
+  },
+  {
+   "name": "Jenny C.",
+   "stars": 5,
+   "when": "6 months ago",
+   "topics": [
+    "Occasions",
+    "Steak"
+   ],
+   "quote": "We visited Meat & Social for our anniversary and had a wonderful experience.",
+   "text": "The staff were incredibly friendly and attentive from start to finish. We shared the Tomahawk steak, which was cooked to perfection—amazing texture and so flavorful!"
+  },
+  {
+   "name": "Gyongyver S.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Social Board"
+   ],
+   "quote": "If you’re a meat lover, this is definitely your place.",
+   "text": "The food is delicious, and the quality of the meat is very good. We tried two sharing boards for four people so we could taste a bit of everything, and it was absolutely worth it."
+  },
+  {
+   "name": "Cheryl B.",
+   "stars": 5,
+   "when": "6 months ago",
+   "guide": true,
+   "topics": [
+    "Social Board"
+   ],
+   "quote": "The nicest lamb cutlets I've ever tasted.",
+   "text": "The food was 1st class. The social board was amazing with the beef rib being the winner…and the lovely lemon cheesecake. Will be back again soon."
+  },
+  {
+   "name": "Samantha R.",
+   "stars": 5,
+   "when": "3 weeks ago",
+   "topics": [
+    "Occasions",
+    "Steak"
+   ],
+   "quote": "Absolutely cracking find.",
+   "text": "Wanted to get a bite to eat before our Bon Jovi show. The onglet steak was cooked perfectly and the maitre d’ went out of his way to ensure we were seated and served as soon as possible."
+  },
+  {
+   "name": "Laura R.",
+   "stars": 5,
+   "when": "3 months ago",
+   "guide": true,
+   "topics": [
+    "Occasions",
+    "Service"
+   ],
+   "quote": "The staff were all so attentive and friendly.",
+   "text": "We impulsively stopped at the end of Harry Styles night 1 when we realized we didn’t want to run with the crowd to get on the train."
+  },
+  {
+   "name": "Natascha R.",
+   "stars": 5,
+   "when": "3 months ago",
+   "topics": [
+    "Butchery"
+   ],
+   "quote": "Can highly recommend as a chef of 35 years.",
+   "text": "The whole meal was to the highest standard: the spices and the sauces complimented the meats perfectly. Also great value for money."
+  },
+  {
+   "name": "Lisa M.",
+   "stars": 5,
+   "when": "8 months ago",
+   "guide": true,
+   "topics": [
+    "Burger",
+    "Occasions",
+    "Service"
+   ],
+   "quote": "I LOVED it here.",
+   "text": "Ben and all the staff were really lovely, professional and helpful. You can see your cut of meat before it’s cooked. The chef’s special sauce with the burger was amazing. Ben you made my birthday extra special!"
+  },
+  {
+   "name": "El P.",
+   "stars": 5,
+   "when": "5 months ago",
+   "guide": true,
+   "topics": [
+    "Service"
+   ],
+   "quote": "Loved the bone marrow.",
+   "text": "Visited a couple of times with friends and we were all very happy about both the food and the service! Meat is great and with several cuts. Dog friendly. Absolutely recommended!"
+  },
+  {
+   "name": "Kamala S.",
+   "stars": 5,
+   "when": "3 months ago",
+   "topics": [
+    "Service"
+   ],
+   "quote": "Great experience!",
+   "text": "I ordered the tartare and a cheese board, both of which were beautifully presented and of excellent quality. A special mention to the staff for their friendly and attentive service."
+  },
+  {
+   "name": "Catharine I.",
+   "stars": 5,
+   "when": "7 months ago",
+   "guide": true,
+   "topics": [
+    "Butchery"
+   ],
+   "quote": "Fantastic meat, perfectly cooked, lovely sides.",
+   "text": "Great idea having a butcher’s shop, I brought some merguez sausages to take home, they look incredible."
+  },
+  {
+   "name": "Nikhil P.",
+   "stars": 5,
+   "when": "4 months ago",
+   "guide": true,
+   "topics": [
+    "Steak"
+   ],
+   "quote": "What a place. The steak was brilliant.",
+   "text": "Our host was lovely and knowledgeable. Definitely the best steak houses in the area. Bangers and mash were fantastic too."
+  },
+  {
+   "name": "Hermelinda S.",
+   "stars": 5,
+   "when": "9 months ago",
+   "topics": [
+    "Steak"
+   ],
+   "quote": "It turned out to be an excellent experience.",
+   "text": "We started with the Bone Marrow, which was incredibly flavorful, followed by the tartare — exceptionally fresh and of truly outstanding quality."
+  },
+  {
+   "name": "Sam C.",
+   "stars": 5,
+   "when": "4 weeks ago",
+   "topics": [
+    "Service"
+   ],
+   "quote": "Highly recommend this place!",
+   "text": "Excellent service by Ben and the food was amazing. I love the fact that they also had halal options."
+  },
+  {
+   "name": "Liam O.",
+   "stars": 5,
+   "when": "4 months ago",
+   "topics": [
+    "Service"
+   ],
+   "quote": "What a fantastic meal!",
+   "text": "Went as a solo diner and was warmly welcomed and given some great recommendations and explanations of the menu. Fabulous dining experience that I'll remember fondly for a long time!"
+  },
+  {
+   "name": "Sophia D.",
+   "stars": 5,
+   "when": "3 months ago",
+   "topics": [
+    "Occasions",
+    "Service"
+   ],
+   "quote": "The food and the team at Meat & Social were exceptional.",
+   "text": "Ben in particular made such a good impression that we had to come back. Opening until 1am on event days was great."
+  },
+  {
+   "name": "Fatema M.",
+   "stars": 5,
+   "when": "9 months ago",
+   "guide": true,
+   "topics": [
+    "Service"
+   ],
+   "quote": "What an amazing meal!",
+   "text": "The meat is cooked extremely well and is flavorful. The service is outstanding! Be sure to ask about the story behind the restaurant."
+  },
+  {
+   "name": "Aleksandar K.",
+   "stars": 5,
+   "when": "4 months ago",
+   "topics": [
+    "Service"
+   ],
+   "quote": "Going to be one of my favourite spots in the area.",
+   "text": "Nice and cozy little restaurant. The food and service were amazing, the waiter is very professional and knowledgeable in terms of the menu."
+  }
+ ],
+ "collected": "2026-09-30"
+}

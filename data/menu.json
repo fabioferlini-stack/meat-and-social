@@ -1,0 +1,488 @@
+{
+ "_source": "meatandsocial.co.uk /food /drinks /lunchdeal, 30 Sep 2026. Prices in GBP. photo = key in curation images.",
+ "food": [
+  {
+   "id": "small",
+   "name": "Small plates",
+   "note": "To start, or to share",
+   "items": [
+    {
+     "name": "Flatbreads",
+     "price": "11",
+     "desc": "Cauliflower steak & hummus, za'atar spice & pine nuts",
+     "tags": [
+      "V"
+     ],
+     "options": [
+      "Greek passion lamb skewer +6",
+      "Ginger, lemon & chilli chicken skewer +6"
+     ],
+     "photo": "flatbreads"
+    },
+    {
+     "name": "Fillet tartare",
+     "price": "20",
+     "desc": "Finely hand-cut beef fillet mixed with capers and a fresh free-range egg yolk, served with wholewheat sourdough.",
+     "options": [
+      "Served on a roasted bone marrow canoe +6"
+     ],
+     "photo": "tartare"
+    },
+    {
+     "name": "Spiced chicken lollipops",
+     "price": "15",
+     "desc": "French-trimmed drumsticks in a bold, aromatic blend of warming spices with a smoky, fiery-sweet finish. Curried cream cheese, fresh herbs.",
+     "photo": "lollipops"
+    },
+    {
+     "name": "Bone marrow canoes",
+     "price": "13",
+     "desc": "Roasted bone marrow drizzled with curry oil, served with wholewheat sourdough.",
+     "photo": "marrow"
+    },
+    {
+     "name": "Lamb cutlets",
+     "price": "18",
+     "desc": "Lake District Herdwick lamb cutlets, pan-seared, with a silky celeriac purée and a homemade fresh mint gravy.",
+     "photo": "lamb"
+    }
+   ]
+  },
+  {
+   "id": "meat",
+   "name": "Meat",
+   "note": "Cut on site by our butchers",
+   "items": [
+    {
+     "name": "Flank / Onglet / Featherblade",
+     "price": "22",
+     "desc": "Flavourful entry-level cuts from the working muscles, from premium suppliers. Served with a sauce of your choice.",
+     "photo": "flank"
+    },
+    {
+     "name": "Special cuts",
+     "price": "from 24",
+     "desc": "See the specials board and ask your server about the cuts of the day. Ordered by weight.",
+     "featured": true,
+     "photo": "tomahawk"
+    },
+    {
+     "name": "Meat & Social burger",
+     "price": "19",
+     "desc": "Aged beef trim with seasoned marrow butter, caramelised onions and Fourme d'Ambert blue or Raclette Fumée, in a brioche bun. Skin-on fries.",
+     "tags": [
+      "GF"
+     ],
+     "photo": "burger"
+    },
+    {
+     "name": "Wild boar burger",
+     "price": "19",
+     "desc": "Seasoned wild boar with celeriac purée, caramelised onions and Fourme d'Ambert blue or Raclette Fumée, in a brioche bun. Skin-on fries."
+    },
+    {
+     "name": "Lamb burger",
+     "price": "19",
+     "desc": "Salt marsh lamb with our basil & tarragon mayo, caramelised onions and Fourme d'Ambert blue or Raclette Fumée, in a brioche bun. Skin-on fries."
+    },
+    {
+     "name": "Bangers & mash",
+     "price": "19",
+     "desc": "Homemade, handcrafted sausages with creamy mash, homemade gravy and spinach.",
+     "tags": [
+      "GF"
+     ],
+     "photo": "bangers"
+    }
+   ]
+  },
+  {
+   "id": "sides",
+   "name": "Sides",
+   "items": [
+    {
+     "name": "Beef-fat skin-on fries",
+     "price": "6",
+     "tags": [
+      "GF"
+     ],
+     "photo": "fries"
+    },
+    {
+     "name": "Smashed potatoes, garlic aioli",
+     "price": "7",
+     "tags": [
+      "GF"
+     ],
+     "photo": "smashed"
+    },
+    {
+     "name": "Sweet potato with chorizo",
+     "price": "8",
+     "photo": "sweetpotato"
+    },
+    {
+     "name": "Beetroot, candied granola, cream cheese",
+     "price": "8",
+     "tags": [
+      "V",
+      "GF"
+     ],
+     "photo": "beetgranola"
+    },
+    {
+     "name": "Bok choy, soy sauce, toasted almonds",
+     "price": "7",
+     "tags": [
+      "V",
+      "GF"
+     ]
+    },
+    {
+     "name": "Caesar fennel, crunchy kale, sourdough croutons",
+     "price": "7",
+     "photo": "caesar"
+    },
+    {
+     "name": "Cucumber salad",
+     "price": "7",
+     "tags": [
+      "V",
+      "GF"
+     ]
+    },
+    {
+     "name": "Warm lemony courgette salad",
+     "price": "7"
+    },
+    {
+     "name": "Beetroot salad",
+     "price": "8",
+     "photo": "beetsalad"
+    },
+    {
+     "name": "Charred hispi cabbage, hazelnut chilli butter",
+     "price": "8",
+     "tags": [
+      "V",
+      "GF"
+     ],
+     "photo": "hispi"
+    },
+    {
+     "name": "Creamy mash: truffle or cheese",
+     "price": "8",
+     "tags": [
+      "V"
+     ],
+     "options": [
+      "Bone marrow butter +2.5"
+     ],
+     "photo": "grate"
+    }
+   ]
+  }
+ ],
+ "board": {
+  "price_pp": 29,
+  "min_people": 2,
+  "pick": {
+   "meats": 3,
+   "sides": 2,
+   "sauces": 2
+  },
+  "meats": [
+   {
+    "group": "Beef",
+    "items": [
+     "Short ribs",
+     "Brisket"
+    ]
+   },
+   {
+    "group": "Pork",
+    "items": [
+     "Pulled pork",
+     "Wild boar sausages"
+    ]
+   },
+   {
+    "group": "Lamb",
+    "items": [
+     "Merguez",
+     "Lamb skewers"
+    ]
+   },
+   {
+    "group": "Chicken",
+    "items": [
+     "Chicken skewers",
+     "Harissa wings"
+    ]
+   }
+  ],
+  "sauces": [
+   "House golden sauce",
+   "Chimichurri",
+   "Beef-fat BBQ",
+   "Spicy harissa dip",
+   "Basil & tarragon mayo",
+   "Peppercorn sauce",
+   "House bone gravy",
+   "House signature sauce"
+  ],
+  "sauces_note": "All sauces are gluten free"
+ },
+ "drinks": [
+  {
+   "id": "sparkling",
+   "name": "Sparkling",
+   "items": [
+    {
+     "name": "Poi Mosso Prosecco Veneto DOC",
+     "maker": "Andrea Stocco",
+     "glass": "8",
+     "bottle": "34"
+    },
+    {
+     "name": "Prosecco Col Fondo Malibran",
+     "maker": "Sottoriva · cloudy",
+     "glass": "12",
+     "bottle": "52"
+    },
+    {
+     "name": "Franciacorta DOCG Rosé Extra Brut",
+     "maker": "La Montina",
+     "bottle": "103"
+    },
+    {
+     "name": "Champagne Germar Breton Brut NV",
+     "bottle": "92"
+    },
+    {
+     "name": "Lambrusco dell'Emilia",
+     "maker": "Red sparkling",
+     "bottle": "47"
+    }
+   ]
+  },
+  {
+   "id": "white",
+   "name": "White & rosé",
+   "items": [
+    {
+     "name": "Trebbiano Colline Pescaresi",
+     "maker": "Marchesi Migliorati · 2024",
+     "glass": "13",
+     "bottle": "44"
+    },
+    {
+     "name": "Gavi di Gavi Vigna Rovereto",
+     "maker": "Ernesto Picollo · 2024",
+     "bottle": "46"
+    },
+    {
+     "name": "Verdicchio dei Castelli di Jesi",
+     "maker": "Consono Accadia · 2024",
+     "glass": "14",
+     "bottle": "47"
+    },
+    {
+     "name": "Vermentino di Sardegna",
+     "maker": "Pusole · 2024",
+     "bottle": "63"
+    },
+    {
+     "name": "Chablis",
+     "maker": "Val du Mercy · 2023",
+     "bottle": "92"
+    },
+    {
+     "name": "Pouilly-Fumé",
+     "maker": "Domaine Lebrun",
+     "bottle": "65"
+    },
+    {
+     "name": "Albariño DO Rías Baixas",
+     "maker": "Pazos de Lusco",
+     "glass": "14",
+     "bottle": "52"
+    },
+    {
+     "name": "Grillo Sicilia DOC Flaneur",
+     "maker": "Baroni Pianogrillo · 2023",
+     "glass": "15",
+     "bottle": "51"
+    },
+    {
+     "name": "Le Pianure Rosato VdT",
+     "maker": "Rosé · 2024",
+     "glass": "10",
+     "bottle": "39"
+    }
+   ]
+  },
+  {
+   "id": "red",
+   "name": "Red",
+   "items": [
+    {
+     "name": "Barbera Oltrepò Pavese",
+     "maker": "Castello di Cigognola · 2020",
+     "glass": "12",
+     "bottle": "40"
+    },
+    {
+     "name": "Finca del Alta Malbec",
+     "glass": "10",
+     "bottle": "34"
+    },
+    {
+     "name": "Highgate Organic Shiraz",
+     "bottle": "46"
+    },
+    {
+     "name": "Montepulciano d'Abruzzo",
+     "maker": "Valle Reale · 2023",
+     "bottle": "58"
+    },
+    {
+     "name": "Chianti Classico",
+     "maker": "Carpineta Fontalpino · 2021",
+     "bottle": "67"
+    },
+    {
+     "name": "Negroamaro IGT Puglia",
+     "maker": "Mocavero · 2024",
+     "glass": "13",
+     "bottle": "44"
+    },
+    {
+     "name": "Lalande-de-Pomerol",
+     "maker": "Château Perron",
+     "bottle": "80"
+    },
+    {
+     "name": "Nero d'Avola",
+     "maker": "Baroni di Pianogrillo · 2023",
+     "glass": "11",
+     "bottle": "38"
+    },
+    {
+     "name": "Rioja Reserva",
+     "maker": "Palacio del Camino Real",
+     "glass": "14",
+     "bottle": "46"
+    },
+    {
+     "name": "Valpolicella Classico Superiore Ripasso",
+     "maker": "Pierpaolo Antolini · 2022",
+     "bottle": "65"
+    },
+    {
+     "name": "Merlot Riserva Friuli",
+     "maker": "Andrea Stocco · 2019",
+     "bottle": "56"
+    },
+    {
+     "name": "Barolo Classico Serralunga",
+     "maker": "Piero Rossi Cairo · 2020",
+     "bottle": "92"
+    }
+   ]
+  },
+  {
+   "id": "cocktails",
+   "name": "Cocktails & beer",
+   "items": [
+    {
+     "name": "Mezcal Negroni",
+     "price": "13"
+    },
+    {
+     "name": "Tommy's Margarita",
+     "price": "13"
+    },
+    {
+     "name": "Lychee Martini",
+     "price": "13"
+    },
+    {
+     "name": "Delicious Sour",
+     "price": "13"
+    },
+    {
+     "name": "Social Zombie",
+     "price": "13"
+    },
+    {
+     "name": "Mai Tai",
+     "price": "13"
+    },
+    {
+     "name": "Passion Martini",
+     "price": "13"
+    },
+    {
+     "name": "Menabrea Amber",
+     "maker": "Bottle",
+     "price": "7"
+    },
+    {
+     "name": "Menabrea 0%",
+     "maker": "Bottle · alcohol free",
+     "price": "7"
+    }
+   ]
+  }
+ ],
+ "lunch": {
+  "price": 22,
+  "upgrade": 4.5,
+  "days": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "from": 12,
+  "to": 16,
+  "text": "Any meat main, with one side and a soft drink.",
+  "upgrade_text": "Make it a glass of house wine or a beer for £4.50.",
+  "small": "Excludes special cuts. Not available on event days or bank holidays."
+ },
+ "footnote": "If you have any allergies, intolerances or questions about our dishes, please speak to a member of the team. A discretionary 12.5% service charge is added to your bill.",
+ "sunday": {
+  "day": 0,
+  "from": 12,
+  "title": "Sunday at Meat & Social",
+  "starter": {
+   "name": "Miso bone broth",
+   "price": "7",
+   "desc": "House-made, collagen-rich bone broth enriched with miso. Deep, warming and restorative."
+  },
+  "roasts": [
+   {
+    "name": "Rare breed Orchard porchetta",
+    "price": "26",
+    "desc": "Herb & citrus stuffing, crisp crackling."
+   },
+   {
+    "name": "Cotswold chicken",
+    "price": "26",
+    "desc": "Free-range Cotswold chicken, sauce suprême."
+   },
+   {
+    "name": "Rare breed Longhorn topside",
+    "price": "28",
+    "desc": "Roasted and served pink."
+   }
+  ],
+  "with": "All roasts served with Yorkshire pudding, beef-fat roast potatoes, heritage carrots, charred hispi cabbage, cauliflower cheese & house bone gravy.",
+  "dessert": {
+   "name": "Sticky toffee pudding",
+   "price": "10",
+   "desc": "Warm sticky toffee pudding, vanilla whipped cream."
+  }
+ }
+}
