@@ -37,7 +37,7 @@
   $$('[data-fb]').forEach(function (a) { a.href = P.facebook; });
   $$('[data-li]').forEach(function (a) { a.href = P.linkedin; });
   $$('[data-mailing]').forEach(function (a) { a.href = P.mailing; });
-  $$('[data-tel]').forEach(function (a) { a.href = 'tel:' + String(P.phone).replace(/\s/g, ''); a.textContent = P.phone; });
+  $$('[data-tel]').forEach(function (a) { a.href = 'tel:' + String(P.phone).replace(/\s/g, ''); (a.querySelector('[data-tel-num]') || a).textContent = P.phone; });
   $$('[data-email]').forEach(function (a) { a.href = 'mailto:' + P.email; a.textContent = P.email; });
   $$('[data-addr]').forEach(function (p) { p.innerHTML = P.address.map(esc).join('<br>'); });
   $$('[data-hours-short]').forEach(function (p) { p.innerHTML = P.hours.map(function (h) { return esc(h.days) + '<br>' + esc(h.label); }).join('<br><br>'); });

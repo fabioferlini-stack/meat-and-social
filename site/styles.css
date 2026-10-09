@@ -80,7 +80,10 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .nav__links a::after { content: ""; position: absolute; left: 0; right: 100%; bottom: -4px; height: 1px; background: var(--terra); transition: right .3s var(--ease); }
 .nav__links a:hover, .nav__links a.is-on { color: var(--bone); }
 .nav__links a:hover::after, .nav__links a.is-on::after { right: 0; }
-.nav .status { margin-left: auto; }
+.nav__meta { margin-left: auto; display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
+.nav__tel { display: inline-flex; align-items: center; gap: 8px; font: 600 13px var(--display); letter-spacing: .08em; color: var(--dim); text-decoration: none; white-space: nowrap; }
+.nav__tel .ic { flex: none; }
+.nav__tel:hover { color: var(--bone); }
 .status { display: inline-flex; align-items: center; gap: 8px; font: 400 12.5px var(--mono); color: var(--dim); letter-spacing: .04em; }
 .status i { width: 8px; height: 8px; border-radius: 50%; background: var(--faint); }
 .status.is-open i { background: #7fd49a; box-shadow: 0 0 0 0 rgba(127,212,154,.6); animation: pulse 2s infinite; }
