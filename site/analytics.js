@@ -12,7 +12,7 @@
     gtm: 'GTM-W8H2LJHR',
     pixel: '4033848116867814',
     hosts: ['meatandsocial.co.uk', 'www.meatandsocial.co.uk'],
-    privacy: 'https://www.meatandsocial.co.uk/privacypolicy'
+    privacy: '/privacy/'
   };
   var w = window, d = document, KEY = 'ms_consent';
   var on = CFG.hosts.indexOf(location.hostname) > -1 || /[?&](analytics=1|gtm_debug=)/.test(location.search);
@@ -60,7 +60,7 @@
     var old = d.querySelector('.consent'); if (old) old.remove();
     var el = d.createElement('div');
     el.className = 'consent'; el.setAttribute('role', 'dialog'); el.setAttribute('aria-label', 'Cookie preferences');
-    el.innerHTML = '<p><strong>Cookies, like the butchery, done properly.</strong> We use them to see how the site is used and to measure our ads. <a href="' + CFG.privacy + '" target="_blank" rel="noopener">Privacy policy</a></p>' +
+    el.innerHTML = '<p><strong>Cookies, like the butchery, done properly.</strong> We use them to see how the site is used and to measure our ads. <a href="' + CFG.privacy + '">Privacy policy</a></p>' +
       '<div class="consent__btns"><button class="consent__no" type="button">Reject</button><button class="consent__yes" type="button">Accept</button></div>';
     d.body.appendChild(el);
     requestAnimationFrame(function () { el.classList.add('is-on'); });

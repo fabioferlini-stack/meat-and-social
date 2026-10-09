@@ -12,3 +12,37 @@
   for = "/media/*"
   [headers.values]
     Cache-Control = "public, max-age=2592000, stale-while-revalidate=86400"
+
+# Old Squarespace addresses (Google results, QR codes, old posts) land on the matching section
+[[redirects]]
+  from = "/privacypolicy"
+  to = "/privacy/"
+  status = 301
+[[redirects]]
+  from = "/food"
+  to = "/#menu"
+  status = 301
+[[redirects]]
+  from = "/drinks"
+  to = "/#menu"
+  status = 301
+[[redirects]]
+  from = "/lunchdeal"
+  to = "/#lunch"
+  status = 301
+[[redirects]]
+  from = "/aboutus"
+  to = "/#butchery"
+  status = 301
+[[redirects]]
+  from = "/google-reviews"
+  to = "/#reviews"
+  status = 301
+[[redirects]]
+  from = "/cart"
+  to = "/"
+  status = 301
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy/"
+  status = 301
